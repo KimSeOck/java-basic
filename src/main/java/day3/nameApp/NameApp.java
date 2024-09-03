@@ -1,4 +1,4 @@
-package day3;
+package day3.nameApp;
 
 
 import java.util.Scanner;

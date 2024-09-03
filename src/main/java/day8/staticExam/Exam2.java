@@ -1,4 +1,5 @@
-package day8.exam2;
+package day8.staticExam;
 
 public class Exam2 {
+    static int num;
 }

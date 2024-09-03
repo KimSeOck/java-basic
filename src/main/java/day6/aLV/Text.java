@@ -1,12 +1,11 @@
-package day5.aLV;
+package day6.aLV;
 
 class Text {
     String drinkNames;
     int prices;
     int quantities;
 
-    @Override
     public String toString() {
-        return drinkNames + " - " + prices + "원";
+        return drinkNames + " : " + prices + "원";
     }
 }
